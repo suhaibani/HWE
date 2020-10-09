@@ -1,1 +1,1 @@
-# HWE
+# HWE: Hierarchical Word Embeddings
