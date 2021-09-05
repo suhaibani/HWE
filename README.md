@@ -1,5 +1,6 @@
 # HWE: Hierarchical Word Embeddings
-HWE is a joint model for learning hierarchical word embeddings from both text corpora and a semantic lexicon (knowledge base). 
+"Fine-Tuning Word Embeddings for Hierarchical Representation of Data Using a Corpus and a Knowledge Base for Various Machine Learning Applications"
+HWE is a joint model for learning hierarchical word embeddings from both text corpora and a taxonomy (knowledge base). 
 
 # Contents
 * ./src/reps.cc is the source code for training the model
